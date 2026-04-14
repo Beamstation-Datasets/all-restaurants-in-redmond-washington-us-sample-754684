@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9193ef07-9684-45e7-ac2e-12dae5b967a4",
+  "id_short": 754684,
+  "published_at": "2026-04-14T07:15:36Z",
+  "repo_name": "all-restaurants-in-redmond-washington-us-sample-754684",
+  "sample_asset_name": "beamstation_754684_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/754684/beamstation_754684_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_records": 19,
+  "sample_sha256": "82042a5f80bbc6383f5223d7ecc762f15e98e8f7aecfcbc6c481a4702c193666",
+  "sample_size_bytes": 84583,
+  "total_records": 192
+}
