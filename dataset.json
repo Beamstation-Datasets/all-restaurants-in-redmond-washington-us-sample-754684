@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Redmond, Washington. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Redmond, Washington, US",
+  "export_job_id": "9193ef07-9684-45e7-ac2e-12dae5b967a4",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 754684,
+  "location_name": "Redmond",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-redmond-washington-us-sample-754684",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/754684/beamstation_754684_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 19,
+  "sample_sha256": "82042a5f80bbc6383f5223d7ecc762f15e98e8f7aecfcbc6c481a4702c193666",
+  "sample_size_bytes": 84583,
+  "total_records": 192,
+  "updated_at": "2026-04-09T12:57:34.431549+00:00"
+}
