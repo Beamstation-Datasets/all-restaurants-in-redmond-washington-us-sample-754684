@@ -1,6 +1,6 @@
 # All Restaurants in Redmond, Washington, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `754684` |
 | Location | Redmond |
 | Category | Restaurants |
-| Full dataset size | 129 records |
-| Free sample size | 12 records (9.3%) |
-| Last export | 2026-04-23T12:08:13.577701+00:00 |
+| Full dataset size | 203 records |
+| Free sample size | 20 records (9.85%) |
+| Last export | 2026-04-30T12:31:08.410692+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-redmond-washington-us-sample-754684/releases/download/sample-latest/beamstation_754684_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
